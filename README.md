@@ -1,2 +1,3 @@
 # ACT-Fun
-This C++ program is to organize student's ACT scores along with their respective names into specified files based upon the user input!
+Hi!! just a few things to note: firstly, I wrote this C++ code in the fall semester of 2023 in a Computer Science 1 course, or CS 155, so this code was uploaded exactly as it was from the moment it was submitted as an assignment. Now, the three text files named "CR," "CAR," and "Other," represent the respective files that students can be categorized into based on their respective ACT scores. "CR," represents the "Calculus Ready" file, "CAR," represents the 
+"College Algebra Ready" file, and "Other," represents the scores of students whose ACT score fell in neither of the first two categories. If you have any further questions, comments, or suggestions, please feel free to reach out and tell me!! My school email is jing@una.edu, and my personal is jeslyning725@gmail.com. Thank you!
